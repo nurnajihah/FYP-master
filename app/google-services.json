@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465985341723",
+    "firebase_url": "https://smac-fyp.firebaseio.com",
+    "project_id": "smac-fyp",
+    "storage_bucket": "smac-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465985341723:android:33f78eed3420cc53",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.smacbizservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465985341723-p33fn374v235f09bcqu8v8flbtd4g67q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.edu.rp.c346.smacbizservice",
+            "certificate_hash": "c64cd4cee33929a23de3b3f391cd515f660d691b"
+          }
+        },
+        {
+          "client_id": "465985341723-kqab1vu0bkre2km05avl284i2l8b3ck8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVoO09FZR3qhte05OWYFN7_Nwnm_XVtvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465985341723-kqab1vu0bkre2km05avl284i2l8b3ck8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
